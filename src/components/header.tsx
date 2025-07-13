@@ -6,7 +6,7 @@ export const Header = () => {
       <div className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <div>
-            <h1 className="text-2xl font-bold text-white">LeadFlow</h1>
+            <h1 className="text-2xl font-bold text-primary-foreground">LeadFlow</h1>
             <p className="text-primary-foreground/80 text-sm">Smart Lead Management</p>
           </div>
           <div className="flex items-center space-x-4">
